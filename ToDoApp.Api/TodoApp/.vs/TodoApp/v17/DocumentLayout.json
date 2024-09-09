@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|d:\\todoappproject\\todoapp.api\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|d:\\todoappproject\\todoapp.api\\todoapp\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|d:\\todoappproject\\todoapp.api\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|d:\\todoappproject\\todoapp.api\\todoapp\\todoapp\\migrations\\20240908091845_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A716FA0B-EAE9-4940-8146-9F6C2E48E38F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\migrations\\20240908091845_again.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240908091845_again.cs",
+              "DocumentMoniker": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Migrations\\20240908091845_again.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Migrations\\20240908091845_again.cs",
+              "ToolTip": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Migrations\\20240908091845_again.cs",
+              "RelativeToolTip": "TodoApp\\Migrations\\20240908091845_again.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:18:45.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Todo.cs",
+              "ToolTip": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:12:40.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:21:51.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\TodoAppProject\\ToDoApp.Api\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:01:52.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
